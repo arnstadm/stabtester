@@ -1,0 +1,93 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Switch:SW_Push SW2
+U 1 1 6115052E
+P 2750 2400
+F 0 "SW2" H 2750 2685 50  0000 C CNN
+F 1 "SW_Push" H 2750 2594 50  0000 C CNN
+F 2 "MX_Only:MXOnly-2U-NoLED" H 2750 2600 50  0001 C CNN
+F 3 "~" H 2750 2600 50  0001 C CNN
+	1    2750 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW5
+U 1 1 6115081F
+P 2750 3000
+F 0 "SW5" H 2750 3285 50  0000 C CNN
+F 1 "SW_Push" H 2750 3194 50  0000 C CNN
+F 2 "MX_Only:MXOnly-ISO-ROTATED-ReversedStabilizers-NoLED" H 2750 3200 50  0001 C CNN
+F 3 "~" H 2750 3200 50  0001 C CNN
+	1    2750 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW1
+U 1 1 61151175
+P 3825 2375
+F 0 "SW1" H 3825 2660 50  0000 C CNN
+F 1 "SW_Push" H 3825 2569 50  0000 C CNN
+F 2 "MX_Only:MXOnly-2U-NoLED" H 3825 2575 50  0001 C CNN
+F 3 "~" H 3825 2575 50  0001 C CNN
+	1    3825 2375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW4
+U 1 1 6115117F
+P 3825 2975
+F 0 "SW4" H 3825 3260 50  0000 C CNN
+F 1 "SW_Push" H 3825 3169 50  0000 C CNN
+F 2 "MX_Only:MXOnly-2U-NoLED" H 3825 3175 50  0001 C CNN
+F 3 "~" H 3825 3175 50  0001 C CNN
+	1    3825 2975
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW3
+U 1 1 61151C69
+P 5400 2600
+F 0 "SW3" H 5400 2885 50  0000 C CNN
+F 1 "SW_Push" H 5400 2794 50  0000 C CNN
+F 2 "MX_Only:MXOnly-2U-NoLED" H 5400 2800 50  0001 C CNN
+F 3 "~" H 5400 2800 50  0001 C CNN
+	1    5400 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW6
+U 1 1 61151F7F
+P 3300 3825
+F 0 "SW6" H 3300 4110 50  0000 C CNN
+F 1 "SW_Push" H 3300 4019 50  0000 C CNN
+F 2 "MX_Only:MXOnly-6.25U-NoLED" H 3300 4025 50  0001 C CNN
+F 3 "~" H 3300 4025 50  0001 C CNN
+	1    3300 3825
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW7
+U 1 1 61151F89
+P 3300 4425
+F 0 "SW7" H 3300 4710 50  0000 C CNN
+F 1 "SW_Push" H 3300 4619 50  0000 C CNN
+F 2 "MX_Only:MXOnly-7U-NoLED" H 3300 4625 50  0001 C CNN
+F 3 "~" H 3300 4625 50  0001 C CNN
+	1    3300 4425
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
